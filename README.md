@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 
-Deploy: https://nlwesportsmygames.netlify.app/
+Deploy: https://explorerlabrocketpay.netlify.app/
 
 
 
